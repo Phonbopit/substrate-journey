@@ -1,0 +1,2 @@
+# substrate-journey
+📝 Learning Substrate
